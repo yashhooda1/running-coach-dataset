@@ -1,5 +1,4 @@
 # running-coach-dataset
-# Links:
  - Dataset: https://huggingface.co/datasets/hoodarunner/running-coach-sft
  - Adapter: https://huggingface.co/hoodarunner/running-coach-qwen3b-lora
  - Generations: https://huggingface.co/datasets/hoodarunner/running-coach-evals
