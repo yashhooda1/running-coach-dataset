@@ -1,0 +1,49 @@
+{
+  "n_runs": 1648,
+  "n_weeks": 233,
+  "date_range": [
+    "2017-06-19",
+    "2023-09-30"
+  ],
+  "weekly_mileage": {
+    "median": 35.8,
+    "p10": 14.0,
+    "p90": 50.7,
+    "max": 59.4
+  },
+  "week_over_week_ratio": {
+    "median": 1.023,
+    "p75": 1.183,
+    "p90": 1.518,
+    "p95": 1.864
+  },
+  "cutback_rate": 0.284,
+  "long_run_share_of_week": {
+    "median": 0.242,
+    "p90": 0.394
+  },
+  "run_days_per_week": {
+    "median": 5.0,
+    "p90": 6.0
+  },
+  "activities_per_run_day": 1.38,
+  "session_mix": {
+    "easy": 0.844,
+    "workout": 0.084,
+    "long": 0.072
+  },
+  "workout_days_per_week": 0.59,
+  "heat": {
+    "available": true,
+    "n": 462,
+    "r2": 0.138,
+    "s_per_mile_per_F": 0.235,
+    "se": 0.066,
+    "t": 3.57,
+    "ci95": [
+      0.106,
+      0.364
+    ],
+    "cost_55F_to_75F_s_per_mile": 4.7
+  }
+}

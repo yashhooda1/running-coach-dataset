@@ -1,0 +1,5 @@
+# Dataset build + evaluation. Training deps are declared inline in
+# train_sft.py as PEP 723 metadata so `hf jobs uv run` resolves them itself.
+pandas>=2.0
+numpy>=1.24
+huggingface_hub>=0.24
