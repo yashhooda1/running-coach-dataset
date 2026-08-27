@@ -1,4 +1,8 @@
 # running-coach-dataset
+# Links:
+# - Dataset: https://huggingface.co/datasets/hoodarunner/running-coach-sft
+# - Adapter: https://huggingface.co/hoodarunner/running-coach-qwen3b-lora
+# - Generations: https://huggingface.co/datasets/hoodarunner/running-coach-evals
 
 Build a running-coach instruction-tuning corpus, publish it to the Hugging Face
 Hub, fine-tune on HF hardware, and evaluate the one thing that matters — whether
@@ -151,3 +155,4 @@ looked excellent throughout.
 
 Cost, end to end: about $4 of A10G time — 74 minutes training, 53 minutes
 generation, plus a 2.5-hour baseline pass on a free Colab T4.
+
