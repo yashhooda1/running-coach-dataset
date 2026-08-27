@@ -1,8 +1,8 @@
 # running-coach-dataset
 # Links:
-# - Dataset: https://huggingface.co/datasets/hoodarunner/running-coach-sft
-# - Adapter: https://huggingface.co/hoodarunner/running-coach-qwen3b-lora
-# - Generations: https://huggingface.co/datasets/hoodarunner/running-coach-evals
+ - Dataset: https://huggingface.co/datasets/hoodarunner/running-coach-sft
+ - Adapter: https://huggingface.co/hoodarunner/running-coach-qwen3b-lora
+ - Generations: https://huggingface.co/datasets/hoodarunner/running-coach-evals
 
 Build a running-coach instruction-tuning corpus, publish it to the Hugging Face
 Hub, fine-tune on HF hardware, and evaluate the one thing that matters — whether
